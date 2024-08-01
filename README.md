@@ -60,11 +60,11 @@ Note: The 'class' column is the target variable for classification.
 
 ## How to Run
 
-1. Ensure you have Jupyter Notebook or JupyterLab installed.
+1. Please ensure you have Jupyter Notebook or JupyterLab installed.
 2. Install required libraries: `pip install pandas numpy scikit-learn matplotlib seaborn scipy`
 3. Open `vertebral_column_analysis.ipynb` in Jupyter.
 4. Run the cells in order to reproduce the analysis.
 
 ## Acknowledgements
 
-This project was completed as part of an Advanced Statistics and Machine Learning course. Special thanks to the course instructor, Professor Lorenzo Pellis, for his guidance and feedback.
+This project was completed as part of an Advanced Statistics and Machine Learning course. Special thanks to the course instructor, Professor Lorenzo Pellis, for his feedback.
