@@ -21,7 +21,6 @@ The Vertebral Column Data Set from the UCI Machine Learning Repository, containi
 - 6 biomechanical features and 1 class label
 
 The dataset is stored in 'vertebral_column_data.txt'. The file does not contain column headers. The values in each row correspond to the following features in order:
-
 1. pelvic_incidence
 2. pelvic_tilt
 3. lumbar_lordosis_angle
@@ -47,10 +46,15 @@ Note: The 'class' column is the target variable for classification.
 4. All supervised models performed better when using more than just the first two PCs, indicating the importance of the additional components.
 5. The 'grade_of_spondylolisthesis' feature showed high discriminative power after transformation.
 
-## File Structure
+## File Structure and Contents
 
 - `vertebral_column_analysis.ipynb`: Jupyter notebook containing the full analysis
 - `vertebral_column_data.txt`: Dataset used for the analysis
+- `vertebral_column_report.pdf`: Detailed project report including:
+  - In-depth explanation of the methods used
+  - Detailed analysis of results
+  - Discussion of findings and their implications
+  - Visualisations of key outcomes
 - `README.md`: This file, providing project overview and instructions
 
 ## Requirements
