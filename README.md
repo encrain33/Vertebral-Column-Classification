@@ -2,13 +2,11 @@
 
 This project demonstrates the application of unsupervised and supervised classification methods on a vertebral column dataset. It was completed as coursework for a Master's-level Advanced Statistics and Machine Learning course at the University of Manchester.
 
-## Project Overview
+## Project Overview and Significance
 
-The goal was to classify orthopaedic patients as normal or abnormal based on biomechanical attributes of their vertebral column, using both unsupervised and supervised machine learning techniques. This project was constrained to approximately 1000 words as per course requirements.
+The goal of this project was to classify orthopaedic patients as normal or abnormal based on biomechanical attributes of their vertebral column, using both unsupervised and supervised machine learning techniques. This project demonstrates the application of advanced statistical and machine learning methods to medical diagnostics, showcasing the potential for AI to assist in orthopedic patient classification.
 
-## Project Outcome
-
-This project received full marks (20/20) in the course assessment, demonstrating proficiency in applying machine learning techniques.
+The project was completed as coursework for a Master's-level Advanced Statistics and Machine Learning course, constrained to approximately 1000 words as per course requirements. It received full marks (20/20) in the course assessment, demonstrating proficiency in applying machine learning techniques to real-world problems.
 
 ## Important Note
 
